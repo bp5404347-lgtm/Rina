@@ -1,0 +1,6 @@
+{
+  "name": "Rina AI Voice Assistant",
+  "description": "A fast, expressive Hindi and Hinglish voice assistant powered by Gemini with speech recognition and natural voice playback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
